@@ -1,5 +1,5 @@
 # SOUND
-A very simple application for the automated design of ultrasound sergery instruments
+A very simple application for the automated design of ultrasound surgery instruments,
 for the longitudinal vibrations only :( 
 
 Facilities:
