@@ -13,7 +13,7 @@ Discalimer:
 - an interface is ugly and unfortunately I have no time to fix it  
 
 A project had been created as my own course work for "Electroacoustic transducers".
-It was 2009 when I was studying in Biomedical department of BMSTU
+It was 2009 when I was studying at Biomedical department of Bauman Moscow State Technical University
 
 Taranov Alex, 2015
 
